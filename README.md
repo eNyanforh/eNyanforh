@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enyanforh" alt="enyanforh" /></a> </p>
 
-- 🔭 I’m currently working on [Brightway](https://github.com/eNyanforh/mycampus.io)
+- 🔭 I’m currently working on [Brightway](https://github.com/eNyanforh/Brightway.me)
 
-- 🌱 I’m currently learning **CSS, JavaScript, Python**
+- 🌱 I’m confident working with learning **Java, JavaScript, Python and R**
 
-- 👯 I’m looking to collaborate on [mycampus](https://github.com/eNyanforh/mycampus.io)
+- 👯 I’m looking to collaborate on [mycampus](https://github.com/eNyanforh/Brightway.me)
 
-- 🤝 I’m looking for help with [mycampus](https://github.com/eNyanforh/mycampus.io)
+- 🤝 I’m looking for help with [mycampus](https://github.com/eNyanforh/Brightway.me)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eNyanforh](https://github.com/eNyanforh)
 
