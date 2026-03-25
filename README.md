@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enyanforh" alt="enyanforh" /></a> </p>
 
-- 🔭 I’m currently working on [Brightway](https://github.com/eNyanforh/Brightway.me)
+- 🔭 I’m currently working on [Brightway](https://brightway-me.vercel.app/)
 
 - 🌱 I’m confident working with learning **Java, JavaScript, Python and R**
 
