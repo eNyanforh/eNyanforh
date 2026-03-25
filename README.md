@@ -9,9 +9,9 @@
 
 - 🌱 I’m confident working with learning **Java, JavaScript, Python and R**
 
-- 👯 I’m looking to collaborate on [mycampus](https://github.com/eNyanforh/Brightway.me)
+- 👯 I’m looking to collaborate on [Brightway](https://github.com/eNyanforh/Brightway.me)
 
-- 🤝 I’m looking for help with [mycampus](https://github.com/eNyanforh/Brightway.me)
+- 🤝 I’m looking for help with [Brightway](https://github.com/eNyanforh/Brightway.me)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eNyanforh](https://github.com/eNyanforh)
 
