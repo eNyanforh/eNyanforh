@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Brightway](https://brightway-me.vercel.app/)
 
-- 🌱 I’m confident working with learning **Java, JavaScript, Python and R**
+- 🌱 I’m confident working with **Java, JavaScript, Python and R**
 
 - 👯 I’m looking to collaborate on [Brightway](https://github.com/eNyanforh/Brightway.me)
 
